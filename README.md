@@ -4,7 +4,7 @@
 
 This app uses Next.js to serve up a few jokes from a simple jokes api. It fetches new jokes each time it is loaded. When you click on a joke, it takes you to another page which reveals the punchline.
 
-This project has been deployed with [Vercel](https://vercel.com/) to: [laugh-out-loud-p9tzsbjzh-sollyvista.vercel.app].
+This project has been deployed with [Vercel](https://vercel.com/) to: [https://laugh-out-loud.vercel.app/].
 
 ## Table of Contents
 
